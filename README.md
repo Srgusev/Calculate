@@ -14,16 +14,16 @@ exe для установки на компьютер :computer:
 
 -----------------------------------------------------
 
-# # Calculator: 1234:
-Simple calculator in the form of an application on Python
+# # Calculator: 1234:  
+Simple calculator in the form of an application on Python  
 
-# Functionality:
-The background is gray and white.
-Presence of buttons and introductory line.
-4 types of examples: +, -, -, *
-Counts integers.
+# Functionality:  
+The background is gray and white.  
+Presence of buttons and introductory line.  
+4 types of examples: +, -, -, *  
+Counts integers.  
 
-# Future changes:: memo:
-normal design: recycle:
-engineering calculator: it:
-exe to install on computer: computer:
+# Future changes:: memo:  
+normal design: recycle:  
+engineering calculator: it:  
+exe to install on computer: computer:  
