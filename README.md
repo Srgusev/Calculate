@@ -9,7 +9,7 @@
 
 # Будущие изменения: :memo:  
 нормальный дизайн :recycle:   
-инженерный калькулятор  :it:  
+инженерный калькулятор  :i:  
 exe для установки на компьютер :computer:  
 
 -----------------------------------------------------
@@ -25,5 +25,5 @@ Counts integers.
 
 # Future changes: :memo:  
 normal design:recycle:  
-engineering calculator:it:  
+engineering calculator:i:  
 exe to install on computer:computer:  
