@@ -2,10 +2,10 @@ from tkinter import *
 #Окно
 window = Tk()
 window.title("CALCULATE")
-window.geometry('300x300')
+window.geometry('200x200')
 window.resizable(width=False, height=False)
 
-txt = Entry(window, width=37)
+txt = Entry(window, width=20)
 txt.place(x=20, y=5)
 
 #очистка окна
